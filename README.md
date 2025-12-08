@@ -1,4 +1,4 @@
-# Hi there, I'm Kranti Kumar Chinamilli 👋
+# Hi there, I'm Kranti Kumar Chinamilli 
 
 ### Senior Staff-Level Full Stack Architect | AI-Augmented Engineering Enthusiast
 
@@ -19,10 +19,10 @@ I am a visionary **Full Stack Architect** with **12+ years of experience** desig
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Java, JavaScript, TypeScript, SQL |
-| **Frameworks** | Spring Boot, Spring Cloud, React.js, Node.js, Hibernate/JPA |
+| **Frameworks** | Spring Boot, Spring, React.js, Node.js, Hibernate/JPA |
 | **Architecture** | Microservices, Event-Driven (Kafka), REST APIs, Distributed Systems |
 | **Cloud & DB** | AWS (Certified Practitioner), Oracle, MySQL, H2 |
-| **AI & Tools** | Cursor AI, GitHub Copilot, Prompt Engineering, Docker, CI/CD |
+| **AI & Tools** | Cursor AI, GitHub Copilot, Prompt Engineering |
 
 ---
 
